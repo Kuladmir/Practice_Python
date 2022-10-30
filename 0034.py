@@ -1,0 +1,17 @@
+a = {'cau','tsing','peking','中国农业大学'}
+b = "kuladmir"
+c = set(b)
+print(a)
+print(b,end=' ')
+print(c)
+a.add('kuda')
+print(a)
+d = set(['中国农业大学','清华大学','北京大学'])
+d.update(['兰州大学'])
+print(d)
+print(a.pop(),end="  ")
+print(a)
+d.clear()
+print(d,end=' ')
+a.remove('tsing')
+print(a)
