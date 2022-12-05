@@ -1,0 +1,12 @@
+file = open("Kuladmir.txt",'w')
+file.write("I am a man ")
+p=["I have a pen\n","I have an apple\n"]
+file.writelines(p)
+file.close()
+file=open("Kuladmir.txt",'r')
+print(file.read())
+file.seek(0)
+f=file.readline()
+print(f)
+ff=file.readlines()
+print(ff)
