@@ -1,0 +1,10 @@
+a = {1,2,3,5,6,8}
+print(a)
+a.update([6,8,9,510])
+print(a)
+a.add(10)
+print(a)
+a.pop()
+print(a)
+a.remove(5)
+print(a)
