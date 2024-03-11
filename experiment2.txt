@@ -1,0 +1,173 @@
+Epoch=8  lr=0.001
+
+Epoch: 001/008 | Batch 000/195 | Cost: 1789.2401
+Epoch: 001/008 | Batch 120/195 | Cost: 0.6299
+Epoch: 001/008 Train Acc.: 65.08% | Validation Acc.: 47.47%
+Time elapsed: 2.01 min
+Epoch: 002/008 | Batch 000/195 | Cost: 0.6271
+Epoch: 002/008 | Batch 120/195 | Cost: 0.6147
+Epoch: 002/008 Train Acc.: 64.41% | Validation Acc.: 35.60%
+Time elapsed: 4.18 min
+Epoch: 003/008 | Batch 000/195 | Cost: 0.6775
+Epoch: 003/008 | Batch 120/195 | Cost: 0.6258
+Epoch: 003/008 Train Acc.: 61.24% | Validation Acc.: 24.90%
+Time elapsed: 6.11 min
+Epoch: 004/008 | Batch 000/195 | Cost: 0.5891
+Epoch: 004/008 | Batch 120/195 | Cost: 0.6239
+Epoch: 004/008 Train Acc.: 68.87% | Validation Acc.: 54.75%
+Time elapsed: 7.98 min
+Epoch: 005/008 | Batch 000/195 | Cost: 0.5625
+Epoch: 005/008 | Batch 120/195 | Cost: 0.6044
+Epoch: 005/008 Train Acc.: 66.94% | Validation Acc.: 39.18%
+Time elapsed: 9.84 min
+Epoch: 006/008 | Batch 000/195 | Cost: 0.6106
+Epoch: 006/008 | Batch 120/195 | Cost: 0.5264
+Epoch: 006/008 Train Acc.: 69.52% | Validation Acc.: 61.50%
+Time elapsed: 12.88 min
+Epoch: 007/008 | Batch 000/195 | Cost: 0.5872
+Epoch: 007/008 | Batch 120/195 | Cost: 0.5612
+Epoch: 007/008 Train Acc.: 69.03% | Validation Acc.: 42.18%
+Time elapsed: 17.41 min
+Epoch: 008/008 | Batch 000/195 | Cost: 0.6437
+Epoch: 008/008 | Batch 120/195 | Cost: 0.5393
+Epoch: 008/008 Train Acc.: 68.04% | Validation Acc.: 30.93%
+Time elapsed: 21.59 min
+Total Training Time: 21.59 min
+
+
+Epoch=8  lr=0.01
+Epoch: 001/008 | Batch 000/195 | Cost: 890.4072
+Epoch: 001/008 | Batch 120/195 | Cost: 16.1221
+Epoch: 001/008 Train Acc.: 49.99% | Validation Acc.: 100.00%
+Time elapsed: 3.04 min
+Epoch: 002/008 | Batch 000/195 | Cost: 0.7001
+Epoch: 002/008 | Batch 120/195 | Cost: 0.6930
+Epoch: 002/008 Train Acc.: 50.01% | Validation Acc.: 0.00%
+Time elapsed: 7.62 min
+Epoch: 003/008 | Batch 000/195 | Cost: 0.6932
+Epoch: 003/008 | Batch 120/195 | Cost: 0.7203
+Epoch: 003/008 Train Acc.: 49.99% | Validation Acc.: 100.00%
+Time elapsed: 12.08 min
+Epoch: 004/008 | Batch 000/195 | Cost: 1748877.3750
+Epoch: 004/008 | Batch 120/195 | Cost: 147135.9062
+Epoch: 004/008 Train Acc.: 50.00% | Validation Acc.: 100.00%
+Time elapsed: 16.77 min
+Epoch: 005/008 | Batch 000/195 | Cost: 2607176960.0000
+Epoch: 005/008 | Batch 120/195 | Cost: 0.7240
+Epoch: 005/008 Train Acc.: 50.00% | Validation Acc.: 100.00%
+Time elapsed: 18.94 min
+Epoch: 006/008 | Batch 000/195 | Cost: 0.6870
+Epoch: 006/008 | Batch 120/195 | Cost: 0.6964
+Epoch: 006/008 Train Acc.: 49.98% | Validation Acc.: 0.00%
+Time elapsed: 20.83 min
+Epoch: 007/008 | Batch 000/195 | Cost: 0.6950
+Epoch: 007/008 | Batch 120/195 | Cost: 0.6903
+Epoch: 007/008 Train Acc.: 49.99% | Validation Acc.: 100.00%
+Time elapsed: 22.73 min
+Epoch: 008/008 | Batch 000/195 | Cost: 0.6860
+Epoch: 008/008 | Batch 120/195 | Cost: 0.6939
+Epoch: 008/008 Train Acc.: 50.01% | Validation Acc.: 0.00%
+Time elapsed: 24.63 min
+Total Training Time: 24.63 min
+
+Epoch=12  lr=0.001
+Epoch: 001/012 | Batch 000/195 | Cost: 2777.7102
+Epoch: 001/012 | Batch 120/195 | Cost: 0.7404
+Epoch: 001/012 Train Acc.: 58.93% | Validation Acc.: 43.94%
+Time elapsed: 5.26 min
+Epoch: 002/012 | Batch 000/195 | Cost: 0.6470
+Epoch: 002/012 | Batch 120/195 | Cost: 0.6904
+Epoch: 002/012 Train Acc.: 61.68% | Validation Acc.: 47.25%
+Time elapsed: 9.68 min
+Epoch: 003/012 | Batch 000/195 | Cost: 0.6333
+Epoch: 003/012 | Batch 120/195 | Cost: 0.6412
+Epoch: 003/012 Train Acc.: 61.47% | Validation Acc.: 71.89%
+Time elapsed: 13.67 min
+Epoch: 004/012 | Batch 000/195 | Cost: 0.7152
+Epoch: 004/012 | Batch 120/195 | Cost: 0.6096
+Epoch: 004/012 Train Acc.: 61.39% | Validation Acc.: 29.52%
+Time elapsed: 15.63 min
+Epoch: 005/012 | Batch 000/195 | Cost: 0.6770
+Epoch: 005/012 | Batch 120/195 | Cost: 0.6375
+Epoch: 005/012 Train Acc.: 65.08% | Validation Acc.: 39.10%
+Time elapsed: 17.57 min
+Epoch: 006/012 | Batch 000/195 | Cost: 0.6711
+Epoch: 006/012 | Batch 120/195 | Cost: 0.6537
+Epoch: 006/012 Train Acc.: 62.95% | Validation Acc.: 81.10%
+Time elapsed: 19.47 min
+Epoch: 007/012 | Batch 000/195 | Cost: 0.6583
+Epoch: 007/012 | Batch 120/195 | Cost: 0.5340
+Epoch: 007/012 Train Acc.: 67.78% | Validation Acc.: 56.72%
+Time elapsed: 21.40 min
+Epoch: 008/012 | Batch 000/195 | Cost: 0.6620
+Epoch: 008/012 | Batch 120/195 | Cost: 0.6109
+Epoch: 008/012 Train Acc.: 69.23% | Validation Acc.: 51.97%
+Time elapsed: 23.32 min
+Epoch: 009/012 | Batch 000/195 | Cost: 0.5913
+Epoch: 009/012 | Batch 120/195 | Cost: 0.5765
+Epoch: 009/012 Train Acc.: 66.54% | Validation Acc.: 32.13%
+Time elapsed: 25.19 min
+Epoch: 010/012 | Batch 000/195 | Cost: 0.6927
+Epoch: 010/012 | Batch 120/195 | Cost: 0.6315
+Epoch: 010/012 Train Acc.: 69.94% | Validation Acc.: 56.93%
+Time elapsed: 27.08 min
+Epoch: 011/012 | Batch 000/195 | Cost: 0.5425
+Epoch: 011/012 | Batch 120/195 | Cost: 0.6390
+Epoch: 011/012 Train Acc.: 69.97% | Validation Acc.: 62.85%
+Time elapsed: 29.32 min
+Epoch: 012/012 | Batch 000/195 | Cost: 0.5893
+Epoch: 012/012 | Batch 120/195 | Cost: 0.4884
+Epoch: 012/012 Train Acc.: 64.50% | Validation Acc.: 82.80%
+Time elapsed: 32.52 min
+Total Training Time: 32.52 min
+
+Epoch =12   lr=0.01
+Epoch: 001/012 | Batch 000/195 | Cost: 3691.1230
+Epoch: 001/012 | Batch 120/195 | Cost: 0.6875
+Epoch: 001/012 Train Acc.: 50.01% | Validation Acc.: 0.00%
+Time elapsed: 2.07 min
+Epoch: 002/012 | Batch 000/195 | Cost: 0.7173
+Epoch: 002/012 | Batch 120/195 | Cost: 0.7519
+Epoch: 002/012 Train Acc.: 49.99% | Validation Acc.: 100.00%
+Time elapsed: 4.07 min
+Epoch: 003/012 | Batch 000/195 | Cost: 0.7366
+Epoch: 003/012 | Batch 120/195 | Cost: 0.7005
+Epoch: 003/012 Train Acc.: 49.98% | Validation Acc.: 100.00%
+Time elapsed: 6.35 min
+Epoch: 004/012 | Batch 000/195 | Cost: 0.7066
+Epoch: 004/012 | Batch 120/195 | Cost: 0.7283
+Epoch: 004/012 Train Acc.: 49.98% | Validation Acc.: 0.00%
+Time elapsed: 9.77 min
+Epoch: 005/012 | Batch 000/195 | Cost: 0.7010
+Epoch: 005/012 | Batch 120/195 | Cost: 0.7151
+Epoch: 005/012 Train Acc.: 49.99% | Validation Acc.: 0.00%
+Time elapsed: 11.70 min
+Epoch: 006/012 | Batch 000/195 | Cost: 0.7193
+Epoch: 006/012 | Batch 120/195 | Cost: 0.6945
+Epoch: 006/012 Train Acc.: 49.98% | Validation Acc.: 0.00%
+Time elapsed: 13.62 min
+Epoch: 007/012 | Batch 000/195 | Cost: 0.6951
+Epoch: 007/012 | Batch 120/195 | Cost: 0.7195
+Epoch: 007/012 Train Acc.: 50.00% | Validation Acc.: 100.00%
+Time elapsed: 15.51 min
+Epoch: 008/012 | Batch 000/195 | Cost: 0.6965
+Epoch: 008/012 | Batch 120/195 | Cost: 0.7016
+Epoch: 008/012 Train Acc.: 50.00% | Validation Acc.: 0.00%
+Time elapsed: 19.06 min
+Epoch: 009/012 | Batch 000/195 | Cost: 0.6882
+Epoch: 009/012 | Batch 120/195 | Cost: 0.6879
+Epoch: 009/012 Train Acc.: 50.02% | Validation Acc.: 100.00%
+Time elapsed: 23.74 min
+Epoch: 010/012 | Batch 000/195 | Cost: 0.7011
+Epoch: 010/012 | Batch 120/195 | Cost: 0.6972
+Epoch: 010/012 Train Acc.: 50.00% | Validation Acc.: 100.00%
+Time elapsed: 28.46 min
+Epoch: 011/012 | Batch 000/195 | Cost: 0.6934
+Epoch: 011/012 | Batch 120/195 | Cost: 0.6937
+Epoch: 011/012 Train Acc.: 49.99% | Validation Acc.: 0.00%
+Time elapsed: 32.60 min
+Epoch: 012/012 | Batch 000/195 | Cost: 0.7344
+Epoch: 012/012 | Batch 120/195 | Cost: 0.6899
+Epoch: 012/012 Train Acc.: 49.99% | Validation Acc.: 100.00%
+Time elapsed: 34.81 min
+Total Training Time: 34.81 min
