@@ -1,0 +1,7 @@
+s="Kuladmir Admirmoon"
+print(s[1:6:1])
+print(s[1:])
+print(s[:8])
+print(s[:])
+print(s[::2])
+print(s[::-1])
