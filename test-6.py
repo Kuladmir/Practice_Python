@@ -1,0 +1,12 @@
+s1 = "Python"
+print("{:*^25}".format(s1))
+print("{:+>25}".format(s1))
+print("{:-<25}".format(s1))
+print("{0:{1}>25}".format(s1,'+'))
+print("{0:{1}^{2}}".format(s1,'*',25))
+print("{0:{1}{3}{2}}".format(s1,'-',25,'<'))
+print("{0:{1}{3}{2}{4}}".format(567700,'+',25,'^',','))
+print("{:.2f}".format(5.415))
+print("{:.2}".format("Python"))
+print("{0:b} {0:c} {0:d} {0:o} {0:x} {0:X} ".format(12))
+print("{0:.2e} {0:.3E} {0:.1%}".format(7.62))
