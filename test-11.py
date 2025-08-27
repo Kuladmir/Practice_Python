@@ -1,0 +1,10 @@
+f = open("test-2.csv","w+",encoding="utf-8")
+s = ["叶月", "水无月", "影月", "睦月"]
+c = ",".join(s)
+f.writelines(c)
+f.seek(0)
+s1 = f.readline()
+s2 = s1.split(",")
+f.close()
+print(s1)
+print(s2)

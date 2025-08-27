@@ -1,0 +1,16 @@
+f = open("test-1.txt","w",encoding="utf-8")
+f.write("hello world\n")
+s = {"1":"this", "2":"is"}
+f.writelines(s)
+s1 = ("Top", "These\n")
+f.writelines(s1)
+s2 = "Kula"
+f.writelines(s2)
+f.close()
+f = open("test-1.txt","r",encoding="utf-8")
+s1 = f.readline()
+print(s1)
+s1 = f.readline()
+print(s1)
+s1 = f.readlines()
+print(s1)
