@@ -1,0 +1,13 @@
+import turtle as t
+t.setup(500, 500)
+t.width(3)
+t.pencolor((0.23, 0.54, 0.76))
+t.fd(200)
+t.up()
+t.left(90)
+t.fd(30)
+t.left(90)
+t.pendown()
+t.fd(200)
+t.hideturtle()
+t.done()

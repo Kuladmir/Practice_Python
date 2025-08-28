@@ -1,0 +1,16 @@
+import turtle as t
+t.setup(500, 1000)
+t.width(3)
+t.speed(20)
+for i in range(8):
+    t.fd(50)
+    t.left(45)
+t.up()
+t.goto(200, 200)
+t.down()
+t.circle(75)
+t.up()
+t.goto(100,100)
+t.down()
+t.dot(10, "Red")
+t.done()

@@ -1,0 +1,15 @@
+from random import *
+seed(10)
+print(random(), end = "\t\t\t")
+print(random())
+seed(10)
+print(random(), end = "\t\t\t")
+print(random())
+seed(None)
+print(randint(10,50))
+print(uniform(10,20))
+print(randrange(10,30))
+seq = [564, 7894, 654, 28]
+print(choice(seq))
+shuffle(seq)
+print(seq)
